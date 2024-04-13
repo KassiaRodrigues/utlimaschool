@@ -4,8 +4,8 @@
   "description": "projeto de teste unitario",
   "main": "index.js",
   "scripts": {
-  "test": "jest"
-},
+    "test": "jest"
+  },
   "author": "Kassia Rodrigues",
   "license": "ISC",
   "devDependencies": {
